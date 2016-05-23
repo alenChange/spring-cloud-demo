@@ -9,6 +9,6 @@ eureka:
     registerWithEureka: true  # 是否启动就
     fetchRegistry: true
     serviceUrl:
-      defaultZone: http://121.196.227.122:8761/eureka/
+      defaultZone: http://192.168.11.227:8761/eureka/
   server:
     waitTimeInMsWhenSyncEmpty: 0
